@@ -1,0 +1,11 @@
+{
+  "rows": 250000,
+  "columns": 28,
+  "duplicate_rows": 0,
+  "missing_cells": 0,
+  "cities": 42,
+  "states": 20,
+  "price_median_lakhs": 253.87,
+  "size_median_sqft": 2747.0,
+  "good_investment_share": 0.500052
+}
